@@ -20,8 +20,7 @@ Building intelligent systems. Scaling real-world impact.
 </p>
 
 <p align="center">
-  <a href="https://nemapererai.vercel.app"><img src="https://img.icons8.com/fluency/48/domain.png"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.icons8.com/fluency/48/linkedin.png"/></a>
+  <a href="https://nemapereraai.vercel.app/"><img src="https://img.icons8.com/fluency/48/domain.png"/></a>
   <a href="mailto:nemalperera1999@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png"/></a>
 </p>
 
