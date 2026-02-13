@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" />
-</p>
-
 <h1 align="center">Nemal Perera</h1>
 
 <p align="center">
